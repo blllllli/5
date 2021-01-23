@@ -1,0 +1,122 @@
+body{
+    background-color: rgb(51, 133, 152);
+    position: relative;
+}
+#box1{
+    position: absolute;
+    left:460px;
+    top:60px;
+    color: rgb(248, 234, 234);
+    font-size: 30px;
+    font-family: "Microsoft JhengHei";
+}
+#box2{
+    position: absolute;
+    left:375px;
+    top:130px;
+    background-color: rgb(248, 234, 234);
+    color: rgb(51, 133, 152);
+    border-radius: 12px 12px 12px 12px;
+    padding: 5px;
+    font-family: "Microsoft JhengHei";
+    font-weight: bold;
+}
+#name{
+    position: absolute;
+    left:460px;
+    top:146.5px;
+    background-color: rgb(248, 234, 234);
+    padding: 7.5px;
+    width: 290px;
+    outline: medium;
+    border: none;
+    border-radius: 12px 12px 12px 12px;
+    color:rgb(51, 133, 152);
+    font-weight: bold;
+}
+#box3{
+    position: absolute;
+    left:375px;
+    top:170px;
+    background-color: rgb(248, 234, 234);
+    color: rgb(51, 133, 152);
+    border-radius: 12px 12px 12px 12px;
+    padding: 5px;
+    font-family: "Microsoft JhengHei";
+    font-weight: bold;
+}
+#box4{
+    position: absolute;
+    left:460px;
+    top:186.5px;
+    background-color: rgb(248, 234, 234);
+    color: rgb(51, 133, 152);
+    border-radius: 12px 12px 12px 12px;
+    padding: 4.5px;
+    font-family: "Microsoft JhengHei";
+    font-weight: bold;
+    width: 295px;
+}
+#box5{
+    position: absolute;
+    left:375px;
+    top:210px;
+    background-color: rgb(248, 234, 234);
+    color: rgb(51, 133, 152);
+    border-radius: 12px 12px 12px 12px;
+    padding: 5px;
+    font-family: "Microsoft JhengHei";
+    font-weight: bold;
+}
+#number{
+    position: absolute;
+    left:460px;
+    top:227px;
+    background-color: rgb(248, 234, 234);
+    padding: 7.5px;
+    width: 290px;
+    outline: medium;
+    border: none;
+    border-radius: 12px 12px 12px 12px;
+    color:rgb(51, 133, 152);
+    font-weight: bold;
+}
+#box6{
+    position: absolute;
+    left:375px;
+    top:250px;
+    background-color: rgb(248, 234, 234);
+    color: rgb(51, 133, 152);
+    border-radius: 12px 12px 12px 12px;
+    padding: 5px;
+    font-family: "Microsoft JhengHei";
+    font-weight: bold;
+}
+#key{
+    position: absolute;
+    left:460px;
+    top:267px;
+    background-color: rgb(248, 234, 234);
+    padding: 7.5px;
+    width: 290px;
+    outline: medium;
+    border: none;
+    border-radius: 12px 12px 12px 12px;
+    color:rgb(51, 133, 152);
+    font-weight: bold;
+}
+#box7{
+    position: absolute;
+    left:560px;
+    top:310px;
+    background-color: rgb(248, 234, 234);
+    color:rgb(51, 133, 152);
+    font-weight: bold;
+    border: none;
+    padding: 5px;
+    border-radius: 15px 15px 15px 15px;
+    outline: medium;
+    width: 60px;
+    font-family: "Microsoft JhengHei";
+    font-size: 16px;
+}
